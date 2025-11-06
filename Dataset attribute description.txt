@@ -1,0 +1,37 @@
+Dataset attribute description (Data to be provided in Canva):
+
+1.	PatientID: Unique identifier for each patient [4751–6900]
+2.	Age: Age of the patient [60–90 years]
+3.	Gender: Gender of the patient [0: Male, 1: Female]
+4.	Ethnicity: Ethnic background [0: Caucasian, 1: African American, 2: Asian, 3: Other]
+5.	EducationLevel: Highest education attained [0: None, 1: High School, 2: Bachelor’s, 3: Higher]
+6.	BMI: Body Mass Index [15–40]
+7.	Smoking: Smoking status [0: No, 1: Yes]
+8.	AlcoholConsumption: Weekly alcohol consumption [0–20 units]
+9.	PhysicalActivity: Weekly physical activity [0–10 hours]
+10.	DietQuality: Diet quality score [0–10]
+11.	SleepQuality: Sleep quality score [4–10]
+12.	FamilyHistoryAlzheimers: Family history of Alzheimer’s Disease [0: No, 1: Yes]
+13.	CardiovascularDisease: Presence of cardiovascular disease [0: No, 1: Yes]
+14.	Diabetes: Presence of diabetes [0: No, 1: Yes]
+15.	Depression: Presence of depression [0: No, 1: Yes]
+16.	HeadInjury: History of head injury [0: No, 1: Yes]
+17.	Hypertension: Presence of hypertension [0: No, 1: Yes]
+18.	SystolicBP: Systolic blood pressure [90–180 mmHg]
+19.	DiastolicBP: Diastolic blood pressure [60–120 mmHg]
+20.	CholesterolTotal: Total cholesterol [150–300 mg/dL]
+21.	CholesterolLDL: LDL cholesterol [50–200 mg/dL]
+22.	CholesterolHDL: HDL cholesterol [20–100 mg/dL]
+23.	CholesterolTriglycerides: Triglyceride levels [50–400 mg/dL]
+24.	MMSE: Mini-Mental State Examination score [0–30] — lower scores indicate cognitive impairment
+25.	FunctionalAssessment: Functional assessment score [0–10] — lower scores indicate greater impairment
+26.	MemoryComplaints: Presence of memory complaints [0: No, 1: Yes]
+27.	BehavioralProblems: Presence of behavioral problems [0: No, 1: Yes]
+28.	ADL: Activities of Daily Living score [0–10] — lower scores indicate greater impairment
+29.	Confusion: Presence of confusion [0: No, 1: Yes]
+30.	Disorientation: Presence of disorientation [0: No, 1: Yes]
+31.	PersonalityChanges: Presence of personality changes [0: No, 1: Yes]
+32.	DifficultyCompletingTasks: Difficulty completing tasks [0: No, 1: Yes]
+33.	Forgetfulness: Presence of forgetfulness [0: No, 1: Yes]
+34.	Diagnosis: Alzheimer’s Disease diagnosis [0: No, 1: Yes]
+ 
