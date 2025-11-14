@@ -6,3 +6,4 @@ statsmodels
 scikit-learn
 requests
 scipy
+scikit-optimize
