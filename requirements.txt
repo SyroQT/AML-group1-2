@@ -7,3 +7,4 @@ scikit-learn
 requests
 scipy
 scikit-optimize
+skfeature-chappers
